@@ -1,0 +1,2 @@
+cd C:\Users\kiran\eclipse-workspace\nopCommerce
+mvn clean install

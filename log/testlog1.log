@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Log4J Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 11 11:33:42 EST 2022<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="nopcommerce category">nopcommerce</td>
+<td title="Message">URL is opened...</td>
+</tr>
+
+<tr>
+<td>133</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="nopcommerce category">nopcommerce</td>
+<td title="Message">email been provided</td>
+</tr>
+
+<tr>
+<td>184</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="nopcommerce category">nopcommerce</td>
+<td title="Message">password been provided</td>
+</tr>
+
+<tr>
+<td>3367</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="nopcommerce category">nopcommerce</td>
+<td title="Message">login button got clicked</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Log4J Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 11 15:54:53 EST 2022<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="nopcommerce category">nopcommerce</td>
+<td title="Message">URL is opened...</td>
+</tr>
+
+<tr>
+<td>110</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="nopcommerce category">nopcommerce</td>
+<td title="Message">email been provided</td>
+</tr>
+
+<tr>
+<td>148</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="nopcommerce category">nopcommerce</td>
+<td title="Message">password been provided</td>
+</tr>
+
+<tr>
+<td>4392</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="nopcommerce category">nopcommerce</td>
+<td title="Message">login button got clicked</td>
+</tr>
+2022-11-11 17:55:23,607 [main] INFO nopcommerce - URL is opened...
+2022-11-11 17:55:23,709 [main] INFO nopcommerce - email been provided
+2022-11-11 17:55:23,745 [main] INFO nopcommerce - password been provided
+2022-11-11 17:55:26,853 [main] INFO nopcommerce - login button got clicked
+2022-11-15 17:29:17,945 [main] INFO nopcommerce - URL is opened...
+2022-11-15 17:29:18,010 [main] INFO nopcommerce - email been provided
+2022-11-15 17:29:18,035 [main] INFO nopcommerce - password been provided
+2022-11-15 17:29:20,260 [main] INFO nopcommerce - login button got clicked
+2022-11-15 19:12:19,444 [main] INFO nopcommerce - URL is opened...
+2022-11-15 19:12:19,506 [main] INFO nopcommerce - email been provided
+2022-11-15 19:12:19,529 [main] INFO nopcommerce - password been provided
+2022-11-15 19:12:22,319 [main] INFO nopcommerce - login button got clicked
+2022-11-16 10:58:30,051 [main] INFO nopcommerce - URL is opened...
+2022-11-16 10:58:30,123 [main] INFO nopcommerce - email been provided
+2022-11-16 10:58:30,156 [main] INFO nopcommerce - password been provided
+2022-11-16 10:58:32,688 [main] INFO nopcommerce - login button got clicked
+2022-11-16 11:00:27,012 [main] INFO nopcommerce - URL is opened...
+2022-11-16 11:00:27,077 [main] INFO nopcommerce - email been provided
+2022-11-16 11:00:27,111 [main] INFO nopcommerce - password been provided
+2022-11-16 11:00:29,722 [main] INFO nopcommerce - login button got clicked
+2022-11-16 11:44:49,850 [main] INFO nopcommerce - URL is opened...
+2022-11-16 11:44:49,928 [main] INFO nopcommerce - email been provided
+2022-11-16 11:44:49,955 [main] INFO nopcommerce - password been provided
+2022-11-16 11:44:52,150 [main] INFO nopcommerce - login button got clicked
+2022-11-16 13:51:46,072 [main] INFO nopcommerce - URL is opened...
+2022-11-16 13:51:46,185 [main] INFO nopcommerce - email been provided
+2022-11-16 13:51:46,231 [main] INFO nopcommerce - password been provided
+2022-11-16 13:51:48,794 [main] INFO nopcommerce - login button got clicked
+2022-11-16 13:51:55,000 [main] INFO nopcommerce - URL is opened...
+2022-11-16 13:51:55,046 [main] INFO nopcommerce - email been provided
+2022-11-16 13:51:55,093 [main] INFO nopcommerce - password been provided
+2022-11-16 13:51:58,090 [main] INFO nopcommerce - login button got clicked
+2022-11-16 13:51:58,090 [main] INFO nopcommerce - providing customer details....
+2022-11-16 13:54:11,921 [main] INFO nopcommerce - URL is opened...
+2022-11-16 13:54:11,985 [main] INFO nopcommerce - email been provided
+2022-11-16 13:54:12,016 [main] INFO nopcommerce - password been provided
+2022-11-16 13:54:14,345 [main] INFO nopcommerce - login button got clicked
+2022-11-16 13:54:17,929 [main] INFO nopcommerce - URL is opened...
+2022-11-16 13:54:17,963 [main] INFO nopcommerce - email been provided
+2022-11-16 13:54:17,996 [main] INFO nopcommerce - password been provided
+2022-11-16 13:54:22,357 [main] INFO nopcommerce - login button got clicked
+2022-11-16 13:54:22,358 [main] INFO nopcommerce - providing customer details....
+2022-11-16 15:50:44,047 [main] INFO nopcommerce - URL is opened...
+2022-11-16 15:50:44,105 [main] INFO nopcommerce - email been provided
+2022-11-16 15:50:44,131 [main] INFO nopcommerce - password been provided
+2022-11-16 15:50:46,329 [main] INFO nopcommerce - login button got clicked
+2022-11-16 15:50:49,606 [main] INFO nopcommerce - URL is opened...
+2022-11-16 15:50:49,634 [main] INFO nopcommerce - email been provided
+2022-11-16 15:50:49,659 [main] INFO nopcommerce - password been provided
+2022-11-16 15:50:54,147 [main] INFO nopcommerce - login button got clicked
+2022-11-16 15:50:54,148 [main] INFO nopcommerce - providing customer details....
+2022-11-16 15:58:04,671 [main] INFO nopcommerce - URL is opened...
+2022-11-16 15:58:04,727 [main] INFO nopcommerce - email been provided
+2022-11-16 15:58:04,754 [main] INFO nopcommerce - password been provided
+2022-11-16 15:58:07,666 [main] INFO nopcommerce - login button got clicked
+2022-11-16 15:58:10,886 [main] INFO nopcommerce - URL is opened...
+2022-11-16 15:58:10,913 [main] INFO nopcommerce - email been provided
+2022-11-16 15:58:10,941 [main] INFO nopcommerce - password been provided
+2022-11-16 15:58:13,110 [main] INFO nopcommerce - login button got clicked
+2022-11-16 15:58:13,111 [main] INFO nopcommerce - providing customer details....
+2022-11-17 15:07:25,405 [main] INFO nopcommerce - URL is opened...
+2022-11-17 15:07:25,482 [main] INFO nopcommerce - email been provided
+2022-11-17 15:07:25,517 [main] INFO nopcommerce - password been provided
+2022-11-17 15:07:27,772 [main] INFO nopcommerce - login button got clicked
+2022-11-17 15:13:37,912 [main] INFO nopcommerce - URL is opened...
+2022-11-17 15:13:37,984 [main] INFO nopcommerce - email been provided
+2022-11-17 15:13:38,014 [main] INFO nopcommerce - password been provided
+2022-11-17 15:13:40,821 [main] INFO nopcommerce - login button got clicked
